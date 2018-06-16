@@ -133,6 +133,10 @@ Se logró testear a 3 personas, y dieron el siguiente feedback.
  - Les agrado la paleta de colores.
  - Se perdieron un poco cuando no sabían dónde ir después de agregar diagnóstico.
  - No se percataron que en la parte superior derecha estaba el nombre del doctor que lo atendía actualmente.
+ 
+ # Video explicativo 
+ 
+ https://www.useloom.com/share/5a643ee30be143aba4b359a6c26529cb
 
 
 
