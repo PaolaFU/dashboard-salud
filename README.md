@@ -121,13 +121,19 @@ Por medio de las entrevistas se identifica los siguientes insights:
 ## User persona 
 ![Organización](assets/img/user.png "user")
 
-# Ideación
-
-## Feature list
-
 # Prototyping
+El prototipo se encuentra en Marvel, en el siguiente enlace: https://marvelapp.com/93468eh
 
 # Testing
+
+Se logró testear a 3 personas, y dieron el siguiente feedback.
+
+ - No entendieron bien porque habia botones guindos y verdes.
+ - Los gráficos les ayudo a entender lo que tenían que hacer.
+ - Les agrado la paleta de colores.
+ - Se perdieron un poco cuando no sabían dónde ir después de agregar diagnóstico.
+ - No se percataron que en la parte superior derecha estaba el nombre del doctor que lo atendía actualmente.
+
 
 
 
